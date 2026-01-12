@@ -27,8 +27,8 @@ The primary metric used is **RMSE** (lower is better), representing the average 
 
 | Model | RMSE Score | MAE Score |
 | :--- | :--- | :--- |
-| **XGBoost** | **9.xxx** | *Best Performance* |
-| Deep Learning | 9.xxx | Competitive Performance |
+| **XGBoost** | **8.7074** | *Best Performance* |
+| Deep Learning | 8.4813 | Competitive Performance |
 
 ## 📂 File Navigation
 - **`Finalterm_Regresi.ipnyb`**: The main notebook containing:
@@ -44,4 +44,4 @@ The primary metric used is **RMSE** (lower is better), representing the average 
 * **NIM:** 1103220215
 
 ---
-*Built with ❤️ using Python, XGBoost, and Keras.*
+*Built with using Python, XGBoost, and Keras.*
